@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/bc8c53e64c5943c3ac42363a92c50267/artifacts
+end_time: 1740387729220
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: bc8c53e64c5943c3ac42363a92c50267
+run_name: zealous-panda-879
+run_uuid: bc8c53e64c5943c3ac42363a92c50267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387729197
+status: 4
+tags: []
+user_id: kalyani

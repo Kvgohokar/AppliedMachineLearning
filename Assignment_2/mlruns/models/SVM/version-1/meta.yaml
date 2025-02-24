@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740387854583
+current_stage: None
+description: null
+last_updated_timestamp: 1740387854583
+name: SVM
+run_id: d9a86f40b51b4ad6a5b3959aa0fe0413
+run_link: null
+source: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/d9a86f40b51b4ad6a5b3959aa0fe0413/artifacts/SVM
+status: READY
+status_message: null
+storage_location: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/d9a86f40b51b4ad6a5b3959aa0fe0413/artifacts/SVM
+user_id: null
+version: 1

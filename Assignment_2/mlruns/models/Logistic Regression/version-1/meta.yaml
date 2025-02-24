@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1740387839191
+current_stage: None
+description: null
+last_updated_timestamp: 1740387839191
+name: Logistic Regression
+run_id: 16d58b1db10545ea804cbcebd14c89ec
+run_link: null
+source: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/16d58b1db10545ea804cbcebd14c89ec/artifacts/Logistic
+  Regression
+status: READY
+status_message: null
+storage_location: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/16d58b1db10545ea804cbcebd14c89ec/artifacts/Logistic
+  Regression
+user_id: null
+version: 1

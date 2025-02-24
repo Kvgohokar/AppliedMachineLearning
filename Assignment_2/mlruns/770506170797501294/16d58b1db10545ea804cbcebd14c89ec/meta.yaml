@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/16d58b1db10545ea804cbcebd14c89ec/artifacts
+end_time: 1740387839192
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 16d58b1db10545ea804cbcebd14c89ec
+run_name: Logistic Regression
+run_uuid: 16d58b1db10545ea804cbcebd14c89ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387835836
+status: 3
+tags: []
+user_id: kalyani

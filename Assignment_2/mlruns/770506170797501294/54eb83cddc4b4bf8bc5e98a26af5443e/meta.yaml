@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/54eb83cddc4b4bf8bc5e98a26af5443e/artifacts
+end_time: 1740387744855
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 54eb83cddc4b4bf8bc5e98a26af5443e
+run_name: upset-shrimp-874
+run_uuid: 54eb83cddc4b4bf8bc5e98a26af5443e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387744850
+status: 4
+tags: []
+user_id: kalyani

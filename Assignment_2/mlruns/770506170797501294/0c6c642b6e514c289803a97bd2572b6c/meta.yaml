@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/0c6c642b6e514c289803a97bd2572b6c/artifacts
+end_time: 1740387684410
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 0c6c642b6e514c289803a97bd2572b6c
+run_name: efficient-carp-910
+run_uuid: 0c6c642b6e514c289803a97bd2572b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387684404
+status: 4
+tags: []
+user_id: kalyani

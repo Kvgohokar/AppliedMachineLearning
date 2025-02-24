@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/9543ce921525404db8336bb21b0b90b1/artifacts
+end_time: 1740387805269
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 9543ce921525404db8336bb21b0b90b1
+run_name: persistent-newt-839
+run_uuid: 9543ce921525404db8336bb21b0b90b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387805265
+status: 4
+tags: []
+user_id: kalyani

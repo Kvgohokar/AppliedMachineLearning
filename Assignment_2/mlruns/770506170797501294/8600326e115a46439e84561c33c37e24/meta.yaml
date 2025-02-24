@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/8600326e115a46439e84561c33c37e24/artifacts
+end_time: 1740387639904
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 8600326e115a46439e84561c33c37e24
+run_name: powerful-mare-190
+run_uuid: 8600326e115a46439e84561c33c37e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387639900
+status: 4
+tags: []
+user_id: kalyani

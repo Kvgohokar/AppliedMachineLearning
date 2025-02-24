@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1740387847052
+current_stage: None
+description: null
+last_updated_timestamp: 1740387847052
+name: Random Forest
+run_id: 63a62b1041a44a869b0636279283769c
+run_link: null
+source: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/63a62b1041a44a869b0636279283769c/artifacts/Random
+  Forest
+status: READY
+status_message: null
+storage_location: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/63a62b1041a44a869b0636279283769c/artifacts/Random
+  Forest
+user_id: null
+version: 1

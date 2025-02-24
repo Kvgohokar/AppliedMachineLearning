@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalyani/Documents/CMI/Sem%204/AML/Assignment_2/mlruns/770506170797501294/63a62b1041a44a869b0636279283769c/artifacts
+end_time: 1740387847054
+entry_point_name: ''
+experiment_id: '770506170797501294'
+lifecycle_stage: active
+run_id: 63a62b1041a44a869b0636279283769c
+run_name: Random Forest
+run_uuid: 63a62b1041a44a869b0636279283769c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740387839193
+status: 3
+tags: []
+user_id: kalyani
