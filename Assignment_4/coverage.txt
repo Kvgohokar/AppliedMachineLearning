@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.12.7, pytest-7.4.4, pluggy-1.0.0
+rootdir: /Users/kalyani/Documents/CMI/Sem 4/AML/Assignment_4
+plugins: cov-6.0.0, anyio-4.2.0
+collected 9 items
+
+test_.py .........                                                       [100%]
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+
+---------- coverage: platform darwin, python 3.12.7-final-0 ----------
+Name       Stmts   Miss  Cover
+------------------------------
+score.py      31      0   100%
+test_.py      59      2    97%
+------------------------------
+TOTAL         90      2    98%
+
+======================= 9 passed, 18 warnings in 28.05s ========================
