@@ -62,7 +62,7 @@ def test_flask():
 
     assert response.status_code == 200
     response = requests.post("http://127.0.0.1:5001/", data={"text": "Hello, you won a prize!"})
-    print(response)
+
     # Check for 'Prediction:' and 'Probability:' in the HTML response
     assert re.search(r"Prediction:\s+\w+", response.text), "Prediction not found"
     assert re.search(r"Probability:\s+\d+\.\d+", response.text), "Propensity not found"
