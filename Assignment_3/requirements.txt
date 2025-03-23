@@ -4,3 +4,5 @@ pytest-cov
 requests
 joblib
 nltk
+numpy
+scikit-learn
