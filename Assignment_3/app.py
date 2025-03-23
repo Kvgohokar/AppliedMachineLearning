@@ -17,7 +17,7 @@ def home():
         text = request.form["text"]
         prediction, probability = score(text, model, 0.55)
 
-        bg_color = "#dc3545" if prediction == "spam" else "#28a745"
+        bg_color = "#dc3545" if prediction == 1 else "#28a745"
 
         return render_template_string("""
             <!DOCTYPE html>
